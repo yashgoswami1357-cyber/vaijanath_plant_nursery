@@ -1,0 +1,6 @@
+{
+  "name": "Vaijanath Plant Nursery",
+  "description": "India's premier digital plant nursery and organic gardening platform by Yash Goswami, featuring 20+ Indian plants, 15+ organic fertilizers, and an AI Gardening Assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
