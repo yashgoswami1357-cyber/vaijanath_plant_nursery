@@ -1,10 +1,7 @@
 # Vaijanath Plant Nursery
 
 > **India's Premier Digital Plant Nursery & Organic Gardening Platform**  
-> Owned & Founded by **Yash Goswami**  
-> Located in **Khadalpur Mahadev, Kukarwada, Gujarat, India**  
-> 📞 WhatsApp: [+91 73839 58595](https://wa.me/917383958595) | 📧 Email: [montugoswami1357@gmail.com](mailto:montugoswami1357@gmail.com)  
-> 📍 Google Maps: [https://maps.app.goo.gl/2AxM5Zaa7QJe24di7](https://maps.app.goo.gl/2AxM5Zaa7QJe24di7)
+> An independent project for Indian plants and organic gardening.
 
 ---
 
@@ -170,5 +167,5 @@ PORT=3000
 
 ---
 
-**Built with pride for Indian green enthusiasts by Yash Goswami, Kukarwada, Gujarat.**
+**Built for Indian green enthusiasts.**
 "# vaijanath_plant_nursery" 
